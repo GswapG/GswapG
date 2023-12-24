@@ -2,7 +2,7 @@
 <h3 align = "center">CSE Sophomore, <a href="https://www.iitr.ac.in/" style="display: none;">IIT Roorkee</a></h3>
 
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GswapG" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GswapG&theme=dark&show_icons=true" />
 </div>
 
 - 😲 What i do all the time : 😴
