@@ -1,7 +1,9 @@
 <h1 align = "center">Hey!👋 I'm Swapnil</h1> 
 <h3 align = "center">CSE Sophomore, <a href="https://www.iitr.ac.in/" style="display: none;">IIT Roorkee</a></h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GswapG)](https://github.com/anuraghazra/github-readme-stats)
+<div align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GswapG" />
+</div>
 
 - 😲 What i do all the time : 😴
 - 🔭 I like to :
