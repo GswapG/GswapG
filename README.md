@@ -18,4 +18,4 @@
   +  Game Development (Using the Unity Game Engine and pygame)
 - 🔬 I'm currently learning : A lot at once 🍭 (Even though my top languages say otherwise)
 - 💻 I participate in contests @www.codeforces.com (Profile: <a href = "https://codeforces.com/profile/swappythebeast">swappythebeast</a>)
-<p align = "center"><a href = "https://thispersondoesnotexist.com/"><img src="https://skillicons.dev/icons?i=c,cpp,latex,py,vscode,git,github,mysql,qt,unity,md" /></a></p>
+<p align = "center"><a href = "https://thispersondoesnotexist.com/"><img src="https://skillicons.dev/icons?i=c,cpp,latex,py,vscode,git,github,mysql,qt,unity,md,html,css,js" /></a></p>
