@@ -16,6 +16,7 @@
   +  Desktop Application Development (in python using Qt)
   +  Data Science and Machine Learning 
   +  Game Development (Using the Unity Game Engine and pygame)
+  +  Systems Development in C++
 - 🔬 I'm currently learning : A lot at once 🍭 (Even though my top languages say otherwise)
 - 💻 I participate in contests @www.codeforces.com (Profile: <a href = "https://codeforces.com/profile/swappythebeast">swappythebeast</a>)
 <p align = "center"><a href = "https://thispersondoesnotexist.com/"><img src="https://skillicons.dev/icons?i=c,cpp,latex,py,vscode,git,github,mysql,qt,unity,md,html,css,js" /></a></p>
